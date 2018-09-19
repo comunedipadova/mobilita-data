@@ -1,0 +1,8 @@
+document:
+  - name: "Dati mobilità"
+    description: "Informazioni relative sui dati relativi alla mobilità e trasporti nel Comune di Padova"
+    tags:
+      - digital
+      - transportation
+      - citizenship
+      - data
