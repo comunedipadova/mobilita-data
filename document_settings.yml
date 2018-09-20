@@ -1,5 +1,5 @@
 document:
-  - name: "Dati mobilità"
+    name: "Dati mobilità"
     description: "Informazioni relative sui dati relativi alla mobilità e trasporti nel Comune di Padova"
     tags:
       - digital
