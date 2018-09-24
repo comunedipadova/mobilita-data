@@ -1,4 +1,4 @@
-Dati mobilità
+Dati mobilita'
 ===================
 
-Informazioni relative sui dati relativi alla mobilità e trasporti nel Comune di Padova
+Informazioni relative sui dati relativi alla mobilita' e trasporti nel Comune di Padova
