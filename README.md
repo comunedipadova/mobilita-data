@@ -1,3 +1,6 @@
-# Dati sulla mobilità del Comune di Padova
+# Dati sulla mobilità della Città di Padova
 
-Informazioni relative sui dati relativi alla mobilità e trasporti nel Comune di Padova
+Questo repository contiene l'elenco delle basi di dati attualmente accessibili sulla mobilità della Città di Padova.
+Il documento è stato realizzato in formato reStructredText secondo gli standard dalla piattaforma Docs Italia.
+
+Link al documento: https://docs-italia-staging.teamdigitale.it/comunedipadova/mobilita-data/mobilita-data/it/bozza/

@@ -5,21 +5,16 @@ Informazioni sulla Mobilità presso il Comune di Padova
 Che cos’è
 ---------
 
-Il seguente documento riepiloga i dati statistici ed anonimi sulla mobilità della Città di Padova.
-I dati riportati si riferiscono al Comune di Padova, APS Holding S.p.A. e Busitalia Veneto S.p.A.
+Il seguente documento riepiloga i dati statistici sulla mobilità della Città di Padova.
+Le basi di dati riportate sono gestite dal Comune di Padova, APS Holding S.p.A. e BusItalia Veneto S.p.A.
+
+Per l'individuazione delle basi di dati specifiche ai Trasporti si è utilizzato come documento di riferimento
+l'[Elenco delle Basi di Dati Chiave](https://elenco-basi-di-dati-chiave.readthedocs.io/it/latest) definite nell’ambito degli [Open Data del Piano Triennale per l’Informatica nella PA (2017-2019)](https://pianotriennale-ict.readthedocs.io/it/latest/doc/04_infrastrutture-immateriali.html#id31).
 
 
 .. attention::
 
   Sono elencate le basi di dati di cui è accessibile la serie storica.
-
-
-Obiettivi
----------
-
-Processo
-Le basi di dati sono gestite da più settori del Comune di Padova. È stata effettuata una selezione iniziale partendo dell’elenco delle basi di dati chiave proposto dall’Agenzia per l’Italia Digitale.
-
 
 .. topic:: Per ogni base di dati viene riportato:
    :class: procedure
@@ -38,7 +33,8 @@ Le basi di dati sono gestite da più settori del Comune di Padova. È stata effe
 
    7. qualità
 
-
+Indice:
+---------
 .. toctree::
 
       _docs/comunedipadova.rst
