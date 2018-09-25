@@ -10,7 +10,7 @@ Il seguente documento riepiloga i dati statistici ed anonimi sulla mobilita' del
 
 .. attention::
 
-  Sono elencate le basi di dati di cui e' accessibile la serie storica.
+  Sono elencate le basi di dati di cui è accessibile la serie storica.
 
 
 Obiettivi
@@ -32,7 +32,7 @@ Obiettivi
 
    6. formato
 
-   7. qualita'
+   7. qualità
 
 
 .. toctree::
