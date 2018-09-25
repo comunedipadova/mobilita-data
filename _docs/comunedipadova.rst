@@ -2,14 +2,14 @@
 Comune di Padova
 =================
 
-In questo capitolo, vengono descritte le funzioni principali ...
+Questi dataset forniscono il numero dei veicoli transitanti che vengono rilevati dai sensori presenti nelle varie sezioni di mornitoraggio.
 
 .. table:: Esempio di tabella in Docs Italia.
 
    +------------------------------------+-------------------------+-------------------------+------------------------------+---------------------------+------------------------------+---------------------------+------------------------------+
    |                                    | **Tipo di dato**        | **Sorgente**            | **Frequenza di rilevazione** | **Ente che lo raccoglie** | **Data di inizio raccolta**  | **Formato**               | **Qualità**                  |
    +====================================+=========================+=========================+==============================+===========================+==============================+===========================+==============================+
-   | **Spire di Monitoraggio traffico** | Testo                   | Testo                   | Testo                        | Testo                     | Testo                        | Testo                     | Testo                        |
+   | **Spire di monitoraggio traffico** | Testo                   | Testo                   | Testo                        | Testo                     | Testo                        | Testo                     | Testo                        |
    +------------------------------------+-------------------------+-------------------------+------------------------------+---------------------------+------------------------------+---------------------------+------------------------------+
    | **Semaforica SIR1**                | Testo                   | Testo                   | Testo                        | Testo                     | Testo                        | Testo                     | Testo                        |
    +------------------------------------+-------------------------+-------------------------+------------------------------+---------------------------+------------------------------+---------------------------+------------------------------+

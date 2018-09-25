@@ -9,7 +9,7 @@ Il seguente documento riepiloga i dati statistici sulla mobilità della Città d
 Le basi di dati riportate sono gestite dal Comune di Padova, APS Holding S.p.A. e BusItalia Veneto S.p.A.
 
 Per l'individuazione delle basi di dati specifiche ai Trasporti si è utilizzato come documento di riferimento
-l'`Elenco delle Basi di Dati Chiave <https://elenco-basi-di-dati-chiave.readthedocs.io/it/latest>`_ definite nell’ambito degli `Open Data del Piano Triennale per l’Informatica nella PA (2017-2019) <https://pianotriennale-ict.readthedocs.io/it/latest/doc/04_infrastrutture-immateriali.html#id31>`_.
+`Elenco delle Basi di Dati Chiave <https://elenco-basi-di-dati-chiave.readthedocs.io/it/latest>`_ definito nell’ambito degli Open Data del `Piano Triennale per l’Informatica nella PA (2017-2019) <https://pianotriennale-ict.readthedocs.io/it/latest/doc/04_infrastrutture-immateriali.html#id31>`_.
 
 
 .. attention::
