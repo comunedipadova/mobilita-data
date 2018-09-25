@@ -1,11 +1,12 @@
 ####################
-Informazioni sulla Mobilita' presso il Comune di Padova
+Informazioni sulla Mobilità presso il Comune di Padova
 ####################
 
 Che cos’è
 ---------
 
-Il seguente documento riepiloga i dati statistici ed anonimi sulla mobilita' del Comune di Padova, di APS Holding e Busitalia Veneto.
+Il seguente documento riepiloga i dati statistici ed anonimi sulla mobilità della Città di Padova.
+I dati riportati si riferiscono al Comune di Padova, APS Holding S.p.A. e Busitalia Veneto S.p.A.
 
 
 .. attention::
@@ -15,6 +16,9 @@ Il seguente documento riepiloga i dati statistici ed anonimi sulla mobilita' del
 
 Obiettivi
 ---------
+
+Processo
+Le basi di dati sono gestite da più settori del Comune di Padova. È stata effettuata una selezione iniziale partendo dell’elenco delle basi di dati chiave proposto dall’Agenzia per l’Italia Digitale.
 
 
 .. topic:: Per ogni base di dati viene riportato:
