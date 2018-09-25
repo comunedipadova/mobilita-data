@@ -35,9 +35,6 @@ Obiettivi
    7. qualita'
 
 
-
-TEST - Bozza in redazione
-
 .. toctree::
 
       _docs/comunedipadova.rst
