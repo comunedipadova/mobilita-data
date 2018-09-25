@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 # -- PROJECT Variables ----------------------------------------------------
-settings_project_name = "Dati sulla mobilità della Città di Padova"
+settings_project_name = "Dati sulla mobilita' della Città di Padova"
 settings_copyright_copyleft = 'Comune di Padova'
 settings_editor_name = 'Pietro Rampazzo'
 settings_doc_version = 'version: latest'
