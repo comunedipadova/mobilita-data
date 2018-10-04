@@ -37,6 +37,8 @@ Ultimo aggiornamento: 4 Ottobre 2018
 
 A cura di: Pietro Rampazzo
 
+Licenza: `CC-BY 4.0 <https://creativecommons.org/licenses/by/4.0/deed.it>`_
+
 Indice:
 ---------
 .. toctree::
