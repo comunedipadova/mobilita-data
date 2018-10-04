@@ -22,9 +22,8 @@ Questi dataset forniscono il numero dei veicoli transitanti che vengono rilevati
    +------------------------------------+-------------------------+-------------------------------+------------------------------+---------------------------+------------------------------+---------------------------+------------------------------+
    | **Autovelox Tangenziali**          | Transito veicolo        | Apparato rilevazione velocità | 10 minuti                    | Polizia Municipale        | Febbraio 2014                | CSV                       | Grezzo                       |
    +------------------------------------+-------------------------+-------------------------------+------------------------------+---------------------------+------------------------------+---------------------------+------------------------------+
-.. [#] SIR è l'acronimo di Sistema Interodale su Rotaia
 
-.. topic:: I valori riportati sono:
+.. topic:: I valori comuni riportati nelle basi di dati sono:
    :class: procedure
 
    1. Intervallo di tempo
@@ -32,3 +31,5 @@ Questi dataset forniscono il numero dei veicoli transitanti che vengono rilevati
    2. Numero di veicoli transitati (per volume)
 
    3. Velocità media dei veicoli (per volume)
+
+.. [#] SIR è l'acronimo di Sistema Interodale su Rotaia

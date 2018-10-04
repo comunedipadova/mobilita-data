@@ -33,7 +33,8 @@ Per l'individuazione delle basi di dati specifiche ai Trasporti si è utilizzato
 
    7. qualità
 
-Ultimo aggiornamento: ...
+Ultimo aggiornamento: 4 Ottobre 2018
+
 A cura di: Pietro Rampazzo
 
 Indice:
