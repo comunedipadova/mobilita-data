@@ -33,6 +33,9 @@ Per l'individuazione delle basi di dati specifiche ai Trasporti si è utilizzato
 
    7. qualità
 
+Ultimo aggiornamento: ...
+A cura di: Pietro Rampazzo
+
 Indice:
 ---------
 .. toctree::
