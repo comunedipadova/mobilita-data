@@ -18,7 +18,7 @@ Questi dataset forniscono il numero dei veicoli transitanti che vengono rilevati
    +====================================+=========================+===============================+==============================+===========================+==============================+===========================+==============================+
    | **Spire di monitoraggio traffico** | Flusso di traffico      | Spira                         | 10 minuti                    | Settore Mobilità          | Febbraio 2007                | CSV                       | Grezzo                       |
    +------------------------------------+-------------------------+-------------------------------+------------------------------+---------------------------+------------------------------+---------------------------+------------------------------+
-   | **Linea SIR1** [#sir]_                | Flusso di traffico      | Spira                         | 5/10/15 minuti               | Settore Mobilità          | Gennaio 2018                 | CSV                       | Grezzo                       |
+   | **Linea SIR1** [#sir]_             | Flusso di traffico      | Spira                         | 5/10/15 minuti               | Settore Mobilità          | Gennaio 2018                 | CSV                       | Grezzo                       |
    +------------------------------------+-------------------------+-------------------------------+------------------------------+---------------------------+------------------------------+---------------------------+------------------------------+
    | **Autovelox Tangenziali**          | Transito veicolo        | Apparato rilevazione velocità | 10 minuti                    | Polizia Municipale        | Febbraio 2014                | CSV                       | Grezzo                       |
    +------------------------------------+-------------------------+-------------------------------+------------------------------+---------------------------+------------------------------+---------------------------+------------------------------+
@@ -32,4 +32,4 @@ Questi dataset forniscono il numero dei veicoli transitanti che vengono rilevati
 
    3. Velocità media dei veicoli (per volume)
 
-.. [#sir] SIR è l'acronimo di Sistema Interodale su Rotaia_
+.. [#sir] SIR è l'acronimo di Sistema Interodale su Rotaia
