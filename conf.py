@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 # -- PROJECT Variables ----------------------------------------------------
-settings_project_name = "Informazioni sulla Mobilita' presso il Comune di Padova"
+settings_project_name = "Dati sulla mobilita' della Citta' di Padova"
 settings_copyright_copyleft = 'Comune di Padova'
 settings_editor_name = 'Pietro Rampazzo'
 settings_doc_version = 'version: latest'
@@ -175,7 +175,7 @@ html_last_updated_fmt = '%d/%m/%Y'
 
 # If true, SmartyPants will be used to convert quotes and dashes to
 # typographically correct entities.
-#html_use_smartypants = True
+html_use_smartypants = True
 
 # Custom sidebar templates, maps document names to template names.
 #html_sidebars = {}
@@ -281,4 +281,3 @@ texinfo_documents = [
 ]
 
 numfig = True
-
