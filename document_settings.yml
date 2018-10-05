@@ -1,6 +1,8 @@
 document:
-    name: "Dati mobilità"
-    description: "Informazioni relative sui dati relativi alla mobilita' e trasporti nel Comune di Padova"
+    name: "Dati sulla mobilità della Città di Padova"
+    description: "Il seguente documento riepiloga i dati statistici sulla mobilità della Città di Padova"
+    author: peterampazzo
+    license: CC-BY 4.0
     tags:
       - digital
       - transportation
