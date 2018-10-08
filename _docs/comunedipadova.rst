@@ -32,6 +32,4 @@ Questi dataset forniscono il numero dei veicoli transitanti che vengono rilevati
 
    3. Velocità media dei veicoli (per volume)
 
-NOTE
-
 .. [1] SIR è l'acronimo di Sistema Interodale su Rotaia
